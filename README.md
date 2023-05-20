@@ -1,2 +1,2 @@
 # Foursquare_iOS16
-This Application the details of Foursquare that user will enter. i.e: Name, Type, Image, Atmosphere and its Location
+This Application allows us to set data on restaurants or coffees. i.e: names, types, atmosphere, and locations and rendering them to the user dealing with Parse 
